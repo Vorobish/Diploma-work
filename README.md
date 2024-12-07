@@ -21,35 +21,35 @@
 
 ### 1. Главная страница (для всех пользователей)
 
-![1](https://raw.githubusercontent.com/Vorobish/Diploma-work/refs/heads/main/image/image-1.png) 
+![1](https://raw.githubusercontent.com/Vorobish/Diploma-work/refs/heads/main/image/image.png) 
 
 ### 2. Меню (для всех пользователей)
 
-![2](https://raw.githubusercontent.com/Vorobish/Diploma-work/tree/main/image/image-1.png)
+![2](https://raw.githubusercontent.com/Vorobish/Diploma-work/refs/heads/main/image/image-1.png)
 
 ### 3. Корзина (для всех пользователей)
 
-![3](https://raw.githubusercontent.com/Vorobish/Diploma-work/tree/main/image/image-2.png)
+![3](https://raw.githubusercontent.com/Vorobish/Diploma-work/refs/heads/main/image/image-2.png)
 
 ### 4. Заказы (для авторизованных пользователей)
 
-![4](https://raw.githubusercontent.com/Vorobish/Diploma-work/tree/main/image/image-3.png)
+![4](https://raw.githubusercontent.com/Vorobish/Diploma-work/refs/heads/main/image/image-3.png)
 
 ### 5. Заказ (для авторизованных пользователей, отсутствует в основном меню, открывается только по переходу из страницы «Заказы»)
 
-![5](https://raw.githubusercontent.com/Vorobish/Diploma-work/tree/main/image/image-4.png)
+![5](https://raw.githubusercontent.com/Vorobish/Diploma-work/refs/heads/main/image/image-4.png)
 
 ### 6. Авторизация, кнопка «Войти» (для неавторизованных пользователей)
 
-![6](https://raw.githubusercontent.com/Vorobish/Diploma-work/tree/main/image/image-5.png)
+![6](https://raw.githubusercontent.com/Vorobish/Diploma-work/refs/heads/main/image/image-5.png)
 
 ### 7. Регистрация, кнопка «Зарегистрироваться» (для неавторизованных пользователей)
 
-![7](https://raw.githubusercontent.com/Vorobish/Diploma-work/tree/main/image/image-6.png)
+![7](https://raw.githubusercontent.com/Vorobish/Diploma-work/refs/heads/main/image/image-6.png)
 
 ### 8. Кнопка «Выйти» - не страница, видна только для авторизованных пользователей
 
-![8](https://raw.githubusercontent.com/Vorobish/Diploma-work/tree/main/image/image-7.png)
+![8](https://raw.githubusercontent.com/Vorobish/Diploma-work/refs/heads/main/image/image-7.png)
 
 # Как запустить
   
