@@ -21,7 +21,7 @@
 
 ### 1. Главная страница (для всех пользователей)
 
-![1](https://raw.githubusercontent.com/Vorobish/Diploma-work/tree/main/image/image.png) 
+![1](https://raw.githubusercontent.com/Vorobish/Diploma-work/refs/heads/main/image/image-1.png) 
 
 ### 2. Меню (для всех пользователей)
 
